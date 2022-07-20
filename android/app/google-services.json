@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "28342655170",
+    "project_id": "auth-e6694",
+    "storage_bucket": "auth-e6694.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28342655170:android:fdcb68aac26366a490035b",
+        "android_client_info": {
+          "package_name": "com.auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28342655170-j1v1dfsjo1bro7b0u17fdisvls87jh9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpfd_iZq8Z_8wHmC9To5pinOfkt8ZFu70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28342655170-j1v1dfsjo1bro7b0u17fdisvls87jh9o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
